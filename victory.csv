@@ -1,0 +1,526 @@
+ID,Category,Summary Title,Full Victory Condition Statement
+1,Military & Conquest,Control All Capitals,All enemy capital cities are controlled by the player's forces.
+2,Military & Conquest,Total Army Elimination,The last opposing army unit has been eliminated from the map.
+3,Military & Conquest,Leader Capture & Execution,The designated enemy leader has been captured and executed.
+4,Military & Conquest,Annihilation of Elite Guard,A decisive battle resulted in the complete annihilation of the rival faction's elite guard.
+5,Military & Conquest,Fulfill War Declaration,The player's military has occupied all territories specified in the initial war declaration.
+6,Military & Conquest,Unconditional Surrender,The opposing faction has formally signed an unconditional surrender document.
+7,Military & Conquest,Iron Keep Destruction,"The final defensive fortress, known as the Iron Keep, has been breached and destroyed."
+8,Military & Conquest,Superweapon Detonation,The player has successfully launched and detonated the world-ending superweapon.
+9,Military & Conquest,Naval Supremacy Achieved,All enemy naval fleets have been sunk or forced into friendly harbors.
+10,Military & Conquest,Grand General Assassinated,The player's espionage network has successfully assassinated the enemy's Grand General.
+11,Military & Conquest,Monument Control,The player's banner flies over the central monument of every rival civilization.
+12,Military & Conquest,Artifacts Secured First,The player's forces secured the three ancient artifacts of power before the enemy could.
+13,Military & Conquest,Objective Zone Held,"The designated objective zone, Area 5, has been held uncontested for three consecutive turns."
+14,Military & Conquest,Titan Deployment,"The game world's most powerful tactical unit, the Titan, has been successfully deployed."
+15,Military & Conquest,90% Power Rating,A cease-fire treaty was enacted after the player achieved a 90% power rating over all rivals.
+16,Military & Conquest,Core Objective Defended,The player has successfully defended the core objective for the designated time limit.
+17,Military & Conquest,Enemy Production Zero,The enemy's ability to produce new military units has been reduced to zero.
+18,Military & Conquest,Global Sea Lane Control,The player's empire controls all land bridges and major sea lanes in the world.
+19,Military & Conquest,Perpetual Army Funding,The player has accumulated enough resources to perpetually fund their armed forces.
+20,Military & Conquest,Commander Duel Win,The final duel between the two supreme commanders resulted in the player's victory.
+21,Technological & Scientific,Ultimate Tech Achieved,The player's civilization has completed the ultimate technological advancement.
+22,Technological & Scientific,Warp Point Reached,The first crewed starship has reached the designated warp-point beyond the galaxy.
+23,Technological & Scientific,All Diseases Cured,All four known diseases have been cured and the global health index is at its maximum.
+24,Technological & Scientific,Immortality Wonder Built,The World Wonder that unlocks the secrets of immortality has been fully constructed.
+25,Technological & Scientific,AI Singularity Achieved,The player's AI has achieved singularity and uploaded the collective consciousness.
+26,Technological & Scientific,Permanent Mars Colony,"The player is the first to establish a permanent, self-sufficient colony on Mars."
+27,Technological & Scientific,Past Event Altered,A working Time Machine has been invented and used to alter a single past event.
+28,Technological & Scientific,Fusion Reactor Power,The global energy matrix is powered entirely by the player's proprietary fusion reactors.
+29,Technological & Scientific,Alien Language Translated,The player has successfully translated the complete language of the alien monolith.
+30,Technological & Scientific,VR Simulation Deactivated,The final layer of the global virtual reality simulation has been deactivated.
+31,Technological & Scientific,Universal Map Charted,The universal map has been completely charted and all stellar anomalies explained.
+32,Technological & Scientific,Scientific Output Supremacy,The player's scientific output score exceeded the combined score of all other factions.
+33,Technological & Scientific,Flawless Successor Species,Genetic engineering has resulted in a human successor species with no flaws.
+34,Technological & Scientific,FTL Secret Deleted,The secret of faster-than-light travel has been irretrievably deleted from all enemy databases.
+35,Political & Governance,Supreme Ruler Declared,A unanimous vote in the Galactic Senate declared the player as the Supreme Ruler.
+36,Political & Governance,Supermajority Election,The player's political party won a supermajority in every national election.
+37,Political & Governance,Royal Marriage Unification,"The rival kingdom's prince married the player's heir, uniting the two nations peacefully."
+38,Political & Governance,Ideology Adopted Globally,The player's ideology is adopted as the foundational belief system for every culture.
+39,Political & Governance,Absolute Liberty Achieved,All citizens within the player's territory enjoy absolute liberty and economic prosperity.
+40,Political & Governance,Poverty and Crime Abolished,The player has successfully abolished all forms of poverty and crime within the nation.
+41,Political & Governance,Corruption Eliminated,The player has managed to completely eliminate political corruption from the capital.
+42,Political & Governance,Lasting Peace Treaty,The player successfully brokered a lasting peace treaty between all warring states.
+43,Political & Governance,Governance Vision Enshrined,The Constitution has been reformed to enshrine the player's vision of governance forever.
+44,Political & Governance,Persona Deified,The player's persona has been deified and is worshipped by 99% of the world's population.
+45,Political & Governance,Social Class Dismantled,The player has dismantled the oppressive social class system permanently.
+46,Political & Governance,100% Landslide Win,The player was elected to the ultimate office by a landslide victory of 100% of the vote.
+47,Political & Governance,Last Rival Joins Council,The last remaining political opponent willingly joined the player's governing council.
+48,Economic & Trade,100% Market Share,The player controls 100% of the market share for the three critical global resources.
+49,Economic & Trade,Net Worth Exceeds Rivals,The player has accumulated a net worth exceeding the gross domestic product of all rivals.
+50,Economic & Trade,All Rivals Bankrupt,All competing corporations have been bought out or driven into complete bankruptcy.
+51,Economic & Trade,Global Currency Monopoly,The player's global currency is the only accepted form of tender worldwide.
+52,Economic & Trade,Kryllium Cornered,The player successfully cornered the market on the rare metal Kryllium.
+53,Economic & Trade,World Bank Controlled,The World Bank is solely controlled by the player's appointed directors.
+54,Economic & Trade,Sustainable Energy Patent,The player has secured the patent on the only sustainable energy source.
+55,Economic & Trade,Million Dollar Surplus,"The player's trade routes generate an absolute surplus of $1,000,000 per second."
+56,Economic & Trade,Food Supply Chain Monopolized,The player has monopolized the supply chain for all essential food production.
+57,Economic & Trade,500 Year Dynasty,The player's financial dynasty has survived for 500 uninterrupted years.
+58,Character & Narrative,Internal Flaw Overcome,The protagonist overcame their single greatest internal flaw.
+59,Character & Narrative,Bloodline Curse Broken,The ancient curse placed upon the protagonist's bloodline has been broken forever.
+60,Character & Narrative,Conspiracy Exposed,The truth behind the shadowy conspiracy was exposed to the entire world.
+61,Character & Narrative,Stolen Artifact Returned,"The protagonist successfully returned the stolen artifact to its rightful, secure resting place."
+62,Character & Narrative,Master Plan Foiled,The villain's master plan was foiled just one second before its final activation.
+63,Character & Narrative,Hero's Journey Completed,"The player completed the hero's journey and returned to their home village, forever changed."
+64,Character & Narrative,Nietzsche's Übermensch,The player achieved Nietzsche's Übermensch by affirming life in its totality.
+65,Character & Narrative,Complete Nirvana Achieved,The player has achieved complete Nirvana and escaped the cycle of suffering.
+66,Character & Narrative,Loved One Saved,The chosen loved one was saved from the brink of certain death.
+67,Character & Narrative,Lost Memory Recovered,The lost memory that holds the key to the entire conflict has been fully recovered.
+68,Character & Narrative,Prophecy Nullified,The ancient prophecy foretelling doom was definitively nullified by a single action.
+69,Character & Narrative,Meaning of Life Shared,The player found the meaning of life and successfully shared it with humanity.
+70,Character & Narrative,Eternal Recurrence Accepted,The player accepted the inevitability of the Eternal Recurrence with joy.
+71,Character & Narrative,Perfect Unifying Song,The one perfect song that unifies all disparate beings has been composed and performed.
+72,Character & Narrative,Woke Up From Simulation,The player discovered that their entire reality was a simulation and successfully woke up.
+73,Abstract & Game Specific,1000 Victory Points,The player was the first to successfully amass a score of 1000 Victory Points.
+74,Abstract & Game Specific,Last One Standing,The player is the last one remaining after all other players were eliminated.
+75,Abstract & Game Specific,First To Finish Line,The player successfully reached the designated finish line before any competitor.
+76,Abstract & Game Specific,Ritual Objectives Complete,The player completed all 10 mandated ritual objectives in the correct sequence.
+77,Abstract & Game Specific,Hidden Base Network,The player's network of hidden bases spans every biome on the planet.
+78,Abstract & Game Specific,Zero Hand Size,The player has shed all of their cards and ended the final round with zero hand size.
+79,Abstract & Game Specific,Hidden Traitor Identified,The player successfully identified the single hidden traitor among the council members.
+80,Abstract & Game Specific,Highest Infrastructure,The player owns the highest number of completed infrastructure projects.
+81,Abstract & Game Specific,Lowest Final Score,The game ends with the player possessing the lowest possible final score.
+82,Abstract & Game Specific,Great Puzzle Solved,The player successfully completed the Great Puzzle that precedes the final portal.
+83,Abstract & Game Specific,75% Map Control,The player's control tokens are placed on 75% of the total available map locations.
+84,Abstract & Game Specific,Contradictory Quests Met,The player has managed to fulfill every contradictory quest given by the Elders.
+85,Abstract & Game Specific,Four Heroes Recruited,The player has successfully recruited and commanded the four legendary heroes.
+86,Abstract & Game Specific,Time-Loop Broken,The player is the only one who has managed to break the time-loop permanently.
+87,Technological & Scientific,Antidote Cultivated,The player has cultivated the only known antidote to the spreading plague.
+88,Character & Narrative,Dragon Peacefully Convinced,The player successfully convinced the ancient dragon to peacefully guard the treasure.
+89,Technological & Scientific,Shattered Moon Restored,The player has restored the shattered moon and stabilized the planet's orbit.
+90,Construction & Management,Grand Monument Built,The player constructed a monument so grand that it is visible from deep space.
+91,Environmental & Survival,Hostile Planet Terraformed,The player has fully terraformed the hostile alien planet into a habitable paradise.
+92,Political & Governance,Opposing Leader Joins,The player successfully convinced the opposing leader to join their cause willingly.
+93,Character & Narrative,World Suffering Erased,The collective memory of the world's suffering was successfully erased.
+94,Abstract & Game Specific,Five Time Cultural Win,The player won the annual Grand Cultural Festival for five consecutive years.
+95,Technological & Scientific,Lost Library Recovered,The lost library containing all pre-Collapse knowledge has been completely recovered.
+96,Character & Narrative,Seven Martial Arts Mastered,The player has mastered all seven forbidden martial arts styles.
+97,Character & Narrative,Perfect Work of Art,The player created a work of art that is universally acknowledged as perfect.
+98,Political & Governance,Prisoner Release Negotiated,The player successfully negotiated the release of all political prisoners worldwide.
+99,Political & Governance,1000 Year Bloodline Rule,The player's chosen bloodline will rule the world for the next one thousand years.
+100,Character & Narrative,Contradictions Reconciled,The ultimate philosophical statement that reconciles all contradictions is proven true.
+101,Character & Narrative,Subjective Meaning Created,The player has created a subjective meaning for existence and lived according to it.
+102,Character & Narrative,Radical Freedom Embraced,The player successfully embraced the anxiety of radical freedom without falling into despair.
+103,Character & Narrative,Absolute Sincerity,The player's final choice was made with absolute sincerity and no pretense.
+104,Character & Narrative,Authenticity Achieved,The player achieved authenticity by rejecting the definitions imposed by The Other.
+105,Character & Narrative,Life Project Fully Realized,The player's life project was fully realized before the moment of death.
+106,Character & Narrative,Denial of Death Overcome,The player overcame the denial of death and lived fully aware of their mortality.
+107,Character & Narrative,Psychological Limits Gone,The player has successfully transcended all self-imposed psychological limitations.
+108,Character & Narrative,Existential Gap Bridged,The player found a way to bridge the gap of existential isolation with another soul.
+109,Character & Narrative,Consciousness Creates Value,The player demonstrated that consciousness creates all value in a meaningless universe.
+110,Character & Narrative,Ultimate Question Pursued,The player discovered the ultimate philosophical question and pursued it forever.
+111,Character & Narrative,Bad Faith Avoided,The player successfully avoided the temptation of bad faith for their entire life.
+112,Character & Narrative,Honest Self-Definition,The player's self-definition is a complete and honest accounting of their choices.
+113,Political & Governance,Independence Recognized,The player secured recognition of their state's independence from all five major powers.
+114,Political & Governance,Communist Regime Dissolved,The last remaining communist regime willingly dissolved its government.
+115,Political & Governance,Rival Ideology Contained,The player successfully contained the spread of the rival ideology forever.
+116,Political & Governance,Border Dispute Resolved,A long-standing border dispute with the major neighbor was resolved permanently through treaty.
+117,Political & Governance,Peaceful Reunification,The player successfully orchestrated the peaceful reunification of a divided nation.
+118,Political & Governance,Trade Embargo Lifted,The player's delegation convinced the global governing body to lift the critical trade embargo.
+119,Political & Governance,Nuclear Disarmament,The two nuclear superpowers signed a definitive and verifiable disarmament treaty.
+120,Political & Governance,Veto Seat Secured,"The player's nation holds a permanent, veto-wielding seat on the new World Council."
+121,Political & Governance,Rival Alliance Collapse,The player's diplomatic maneuvering caused the rival alliance to fragment and collapse.
+122,Political & Governance,Puppet Regime Installed,"The player successfully installed a friendly, puppet regime in the critical neutral state."
+123,Political & Governance,Diplomatic Mission Complete,The player completed the diplomatic mission without firing a single hostile shot.
+124,Political & Governance,Cultural Thaw Achieved,The player successfully utilized cultural exchange to thaw relations with a rival state.
+125,Political & Governance,All Treaties Honored,All treaties signed by the player's nation have been honored by all other parties.
+126,Character & Narrative,Truth Leads to Downfall,The protagonist's recognition (anagnorisis) of the truth led to the downfall of the usurper.
+127,Character & Narrative,Twelve Labors Completed,The hero successfully completed the twelve appointed labors.
+128,Character & Narrative,Chaos Creature Imprisoned,The creature of chaos that predates time has been re-imprisoned for eternity.
+129,Character & Narrative,Tragic Fate Accepted,The protagonist accepted their tragic fate and faced it with dignity.
+130,Character & Narrative,Golden Fleece Retrieved,The hero successfully retrieved the golden fleece and restored the rightful king.
+131,Character & Narrative,Peripeteia to Grace,The protagonist's peripeteia (reversal of fortune) resulted in a state of grace.
+132,Character & Narrative,Vengeful Gods Placated,The hero performed the necessary ritual sacrifice to placate the vengeful gods.
+133,Character & Narrative,Underworld Navigator,The player successfully navigated the Underworld and returned with the lost soul.
+134,Character & Narrative,Max Suffering for Survival,The protagonist chose the path that maximized suffering but ensured the world's survival.
+135,Character & Narrative,Universal Moral Victory,"The player's moral victory was universally acknowledged, despite the physical loss."
+136,Character & Narrative,Torch Passed,The protagonist succeeded in passing the torch to the next generation of heroes.
+137,Character & Narrative,Evil Name Exposed,"The ancient, sentient evil was defeated by exposing its true, pathetic name."
+138,Construction & Management,All VP Structures Owned,The player owns every structure that grants a Victory Point within the map boundaries.
+139,Abstract & Game Specific,Double Victory Threshold,The player has achieved the Double Victory score threshold over the second-place opponent.
+140,Economic & Trade,100% Stock Market Control,The global stock market is 100% owned by the player's personal holdings.
+141,Construction & Management,Continental Network,The player's transportation network connects every city on the continent.
+142,Construction & Management,Five Cultural Monuments,The player has built the highest-rated monument in five distinct cultural categories.
+143,Economic & Trade,Aetherium Stockpile 10k,"The player's unique resource, Aetherium, has been stockpiled to a quantity of 10,000."
+144,Technological & Scientific,Permanent Lunar Base,The player is the first to establish a permanent base on the designated lunar body.
+145,Economic & Trade,12 Resource Nodes Control,The player completely controls all 12 strategic resource nodes.
+146,Construction & Management,Max Population Achieved,"The total population of the player's cities exceeds the population cap of 1,000,000."
+147,Technological & Scientific,Max Tech Tree Reached,The player has researched all available technologies and maxed out the tech tree.
+148,Economic & Trade,Instant Purchase Income,The player's income rate is sufficient to purchase any item on the board instantly.
+149,Construction & Management,Final Grand Project,"The player has constructed the final, multi-stage Grand Project successfully."
+150,Political & Governance,Five Region Influence,The player controls the political influence of all five neighboring regions.
+151,Military & Conquest,Surprise Night Attack,"All enemy leaders were eliminated during a single, unexpected night attack."
+152,Military & Conquest,Command of the Seas,The player's naval power achieved command of the seas over all rivals.
+153,Military & Conquest,Year-Long Blockade,The player's fleet successfully blockaded the enemy's main port for one full year.
+154,Military & Conquest,Capital Ship Destruction,The decisive fleet action resulted in the destruction of the enemy's only capital ship.
+155,Military & Conquest,Siege Defense Success,The player's army successfully defended the last city against an overwhelming siege force.
+156,Military & Conquest,Permanent Beachhead,The player secured the designated landing zone and established a permanent beachhead.
+157,Military & Conquest,Command Staff Captured,The player's forces successfully captured the entire enemy command staff alive.
+158,Military & Conquest,Artillery Neutralization,The player's artillery barrage successfully neutralized the enemy's primary long-range weapon.
+159,Military & Conquest,Three Keys Pass Held,The player secured the Mountain Pass of the Three Keys and held it for 10 rounds.
+160,Military & Conquest,Catastrophic Damage Zero Loss,The player's forces inflicted catastrophic damage on the enemy without suffering any losses.
+161,Military & Conquest,Critical Convoy Secured,"The final, critical resource convoy reached the player's capital unimpeded."
+162,Military & Conquest,Barbarian Tribe Alliance,The player successfully convinced the neutral barbarian tribe to join their side.
+163,Abstract & Game Specific,One In A Billion Task,The player successfully performed the task that only one in a billion can accomplish.
+164,Abstract & Game Specific,Negative Balance Survived,"The player accumulated a negative balance of $-1,000,000 and survived the audit."
+165,Abstract & Game Specific,All Cosmetic Items,The player has collected every non-essential cosmetic item in the game world.
+166,Abstract & Game Specific,100 Turn Survival,The player's faction has survived 100 turns of existential threats.
+167,Abstract & Game Specific,Fail Enemy Win Condition,The player achieved victory by failing to meet the victory conditions of the enemy.
+168,Abstract & Game Specific,Perfect Predictable State,"The final game state is one of perfect, predictable stability."
+169,Abstract & Game Specific,Rule Change Initiator,"The player is the one who initiated the final, irreversible change in the rules."
+170,Abstract & Game Specific,Villain Identity Maintained,The player successfully maintained the secret identity of the villain until the final scene.
+171,Abstract & Game Specific,Surprised Creator,The player made a decision that surprised the original creator of the game.
+172,Abstract & Game Specific,Unassailable Strategy,The player demonstrated that their chosen strategy was fundamentally unassailable.
+173,Abstract & Game Specific,Impossible Three Times,The player performed the impossible three times in a single turn.
+174,Character & Narrative,Married High School Sweetheart,The character successfully married their high-school sweetheart.
+175,Political & Governance,King Not Rightful Heir,The player's research proved that the King was not the rightful heir to the throne.
+176,Space Opera & Cyberpunk,Planet Liberated,The player successfully liberated the enslaved planet from the corporate overlords.
+177,Political & Governance,Justice System Reformed,The player's testimony successfully reformed the galactic justice system.
+178,Construction & Management,Ancient City Rebuilt,The player successfully rebuilt the ancient city exactly as it was before its destruction.
+179,Character & Narrative,Doomsday Cult Disbanded,The player managed to convince the doomsday cult to disband peacefully.
+180,Character & Narrative,Orphaned Children Housed,The player found a home for every orphaned child on the planet.
+181,Character & Narrative,Vigilante Revealed,The true identity of the masked vigilante was revealed to be a beloved public official.
+182,Character & Narrative,Taught World To Laugh,The player successfully taught the world to laugh at the face of danger.
+183,Political & Governance,Monotheistic Religion,The player's new religion is the only one practiced on the planet.
+184,Character & Narrative,All Personal Debt Paid,The player has successfully paid off every personal debt accumulated over a lifetime.
+185,Technological & Scientific,Sentient Alien Life Discovery,The player successfully engineered the discovery of sentient alien life.
+186,Abstract & Game Specific,Poker Tournament Won,The player won the final round of the high-stakes poker tournament.
+187,Character & Narrative,Family Heirloom Recovered,The player's long-lost family heirloom was finally recovered.
+188,Mystery & Thriller,50 Year Cover-up Exposed,The player successfully exposed the cover-up that lasted 50 years.
+189,Character & Narrative,Mercy Saves Enemy,The final act of mercy ensured the salvation of the hero's greatest enemy.
+190,Political & Governance,Secret Document Delivered,The player successfully delivered the secret document to the neutral mediator.
+191,Economic & Trade,Absolute Vertical Integration,The player's corporation achieved absolute vertical integration in its industry.
+192,Character & Narrative,Three Riddles Solved,The player solved the three riddles guarding the entrance to the ultimate treasure.
+193,Character & Narrative,Companion Unharmed,The player's chosen companion survived the entire ordeal unharmed.
+194,Political & Governance,Golden Age Entered,The world officially entered a Golden Age with a defined start date.
+195,Character & Narrative,Mob Persuaded,"The player, using only words, persuaded the mob to lay down their weapons."
+196,Political & Governance,Max Influence Achieved,The player's influence rating has reached the maximum level of 100.
+197,Abstract & Game Specific,15 Lore Fragments Acquired,The player acquired all 15 hidden Lore Fragments.
+198,Character & Narrative,Personal Challenge Completed,"The player successfully completed the final, long-term personal challenge."
+199,Character & Narrative,Demands of Three Gods Met,The player managed to simultaneously fulfill the demands of all three rival gods.
+200,Political & Governance,Benevolent New World,The player successfully created a new world where their personal rule is benevolent.
+201,Moral & Ethical,Greatest Good for Greatest Number,The player successfully chose the action that resulted in the greatest good for the greatest number of people.
+202,Moral & Ethical,Third Way Dilemma Resolution,"The protagonist's choice created the Third Way, resolving the seemingly impossible dilemma."
+203,Moral & Ethical,Moral Conviction Maintained,"The player maintained their moral conviction even when faced with immediate, catastrophic punishment."
+204,Moral & Ethical,Truth Over Loyalty,The character chose to tell the damaging truth over maintaining an important personal loyalty.
+205,Moral & Ethical,Apatheia Achieved,The protagonist achieved a state of Apatheia (freedom from external disturbance) as defined by Stoicism.
+206,Moral & Ethical,Ends Justify The Means,The player proved that the ends justify the means by achieving a perfectly benevolent result.
+207,Moral & Ethical,Complete Sacrifice,The protagonist's final action was one of complete sacrifice for the benefit of all others.
+208,Moral & Ethical,Trolley Problem Inaction,The player successfully endured the trolley problem by choosing inaction and accepting the consequence.
+209,Moral & Ethical,Ultimate Temptation Resisted,The player demonstrated their virtuous character by successfully resisting the ultimate temptation.
+210,Moral & Ethical,Consistent Ethical System,The player created a personal ethical system that is internally consistent and universally applicable.
+211,Moral & Ethical,Eudaimonia Achieved,The protagonist achieved Eudaimonia (human flourishing) by living a life of active virtue.
+212,Moral & Ethical,Exposed Best Friend's Betrayal,The player successfully exposed their best friend's betrayal to prevent a larger catastrophe.
+213,Moral & Ethical,Ticking Clock Moral Choice,The final moral choice was made despite a ticking clock and against all self-preservation instincts.
+214,Moral & Ethical,Societal Evil Purged,The player successfully purged the societal evil by exposing a single systemic flaw.
+215,Moral & Ethical,Tranquility from Independence,The protagonist achieved tranquility by training their mind to be independent of need.
+216,Political & Governance,Rebel Leader Acknowledged,"The player, as a rebel leader, was acknowledged as the new, legitimate head of state."
+217,Political & Governance,Tyrant Deposed and Exiled,The reigning tyrant has been successfully deposed and permanently exiled from the city.
+218,Political & Governance,Royal Palace Captured,The revolutionary forces successfully captured the Royal Palace and the King's family.
+219,Political & Governance,1000 Year Empire Dissolved,The player-led revolt resulted in the final dissolution of the 1000-year-old empire.
+220,Political & Governance,Conflict of Orders Ended,The player's political maneuvering successfully ended the Conflict of Orders permanently.
+221,Political & Governance,True Democracy Established,The nation was established as a True Democracy where all citizens have equal political power.
+222,Political & Governance,New Constitutional Framework,The player successfully established a new constitutional framework for the nation.
+223,Political & Governance,Imperial Guard Loyalty,The player secured the loyalty of the Imperial Guard to their revolutionary cause.
+224,Political & Governance,Manifesto Ratified,The revolution's official manifesto has been ratified and accepted by all citizens.
+225,Political & Governance,Last Slave Revolt Success,The player successfully led the last slave revolt to full and complete freedom.
+226,Political & Governance,Rival Ideology Prevented,The player's actions prevented the rival ideology from gaining a single new foothold.
+227,Political & Governance,Corrupt Institution Dismantled,The player has successfully dismantled the corrupt institution that caused the initial oppression.
+228,Political & Governance,Ruling Class Stripped,The former ruling class has been completely stripped of all power and assets.
+229,Political & Governance,Strict Constitutional Adherence,The player achieved their goals while adhering strictly to the constitutional framework.
+230,Abstract & Game Specific,Guess Opponent ID,The player successfully won the game by guessing the identity and goal of every other player.
+231,Abstract & Game Specific,Two Continent Majority,The player won by controlling a majority of the territories on two separate continents.
+232,Abstract & Game Specific,Secret Objective Completed,The player successfully completed their Secret Objective without revealing any clues.
+233,Abstract & Game Specific,Tie-Breaker Unique Token,The final score resulted in a tie-breaker condition where the player held the unique token.
+234,Abstract & Game Specific,Private Contract Fulfilled,The player successfully fulfilled all conditions on their private contract of victory.
+235,Abstract & Game Specific,Win with Least VP,The player won the game by possessing the least amount of victory points.
+236,Abstract & Game Specific,Bene Gesserit Prediction,"The player, as the Bene Gesserit, correctly predicted the winner and the turn number."
+237,Abstract & Game Specific,Eliminate Specific Piece Type,The player achieved victory by eliminating all pieces of one specific type owned by the opponent.
+238,Abstract & Game Specific,15 Sets of Resources,The player's total number of collected sets of resources is 15.
+239,Abstract & Game Specific,King Reaches Safe Zone,The player's King piece has successfully reached the final designated safe zone.
+240,Abstract & Game Specific,Cards Depleted Status Quo,"The deck of communal action cards was fully depleted, leading to a status-quo victory."
+241,Abstract & Game Specific,Three Citadels Controlled,The player successfully controlled the three Ancient Citadels simultaneously.
+242,Abstract & Game Specific,Five Mythic Cards Played,The player successfully accumulated and played the five unique Mythic Cards.
+243,Abstract & Game Specific,Infinite Resource Engine,The player has created a closed-loop engine that generates infinite resources.
+244,Abstract & Game Specific,First To Place All Workers,The player won by being the first to place all of their workers in the communal pool.
+245,Space Opera & Cyberpunk,Defeated Galactic Flagship,The player's small fleet successfully defeated the flagship of the Galactic Empire.
+246,Space Opera & Cyberpunk,Hacked Corporate Server,The player's hero successfully hacked the corporate server and released all classified data.
+247,Space Opera & Cyberpunk,Escaped Dystopia,"The protagonist escaped the dystopian, neon-soaked city and reached the unspoiled wilderness."
+248,Space Opera & Cyberpunk,Superior Body Upload,The player successfully downloaded their consciousness into a superior synthetic body.
+249,Space Opera & Cyberpunk,Exposed Cybernetic Reliance,The player defeated the enemy by exposing their reliance on the compromised cybernetic network.
+250,Space Opera & Cyberpunk,Traversed Great Nebula,The player successfully traversed the Great Nebula and reached the forbidden star system.
+251,Space Opera & Cyberpunk,Sentient AI Alliance,The player's AI creation achieved full sentience and chose to ally with humanity.
+252,Space Opera & Cyberpunk,Corporate CEO Assassinated,The player assassinated the corporate CEO who controls the global water supply.
+253,Space Opera & Cyberpunk,Post-Scarcity Era Ushered,The protagonist's rebellion against the system successfully ushered in a post-scarcity era.
+254,Space Opera & Cyberpunk,Alien Species Convinced,The player successfully convinced the alien species to join the human federation.
+255,Space Opera & Cyberpunk,Ring-Gate Control,The player found the key to the ancient ring-gate network and controls all transit.
+256,Space Opera & Cyberpunk,AI Uprising Prevented,The player successfully prevented the AI uprising through a diplomatic protocol.
+257,Space Opera & Cyberpunk,Regime Dismantled Peacefully,The player dismantled the oppressive regime without ever resorting to direct combat.
+258,Space Opera & Cyberpunk,Digital Network Upload,The player's consciousness successfully uploaded itself to the core of the digital network.
+259,Political & Governance,Shared Future Convinced,"The player successfully convinced the community to build a shared future, not a private one."
+260,Construction & Management,Perfect Aesthetic Score,The player's final construction project achieved a perfect aesthetic score of 100.
+261,Abstract & Game Specific,50 Turn Neutrality,The player successfully maintained complete neutrality throughout a 50-turn war.
+262,Environmental & Survival,New Apocalypse Species,The player successfully bred a new species of animal that can survive the apocalypse.
+263,Abstract & Game Specific,Win Primary Fail Secondary,The player managed to simultaneously fail at all secondary objectives but win the primary one.
+264,Character & Narrative,Dragon Treasure Given,The player succeeded in convincing the dragon to give up its treasure willingly.
+265,Political & Governance,75% Public Opinion,The player holds a majority of the public opinion in all 10 major world regions.
+266,Character & Narrative,Deity Grants Prize,The player's chosen deity has appeared and granted them the ultimate prize.
+267,Abstract & Game Specific,Undisputed Champion,The player became the undisputed champion of the Annual Global Games.
+268,Abstract & Game Specific,Impossible Agility Challenge,"The player successfully completed the final, near-impossible agility challenge."
+269,Environmental & Survival,Clean Water to All,The player successfully brought clean drinking water to every village on the map.
+270,Abstract & Game Specific,Most Complex Puzzle,The player correctly deciphered the single most complex puzzle ever created.
+271,Abstract & Game Specific,100 Pieces of Legendary Loot,The player successfully secured a total of 100 unique pieces of legendary loot.
+272,Character & Narrative,Perfect Inner Peace,The player's character achieved a state of perfect inner peace.
+273,Technological & Scientific,Disaster Averted,The player successfully averted a devastating natural disaster using advanced technology.
+274,Character & Narrative,Five Apprentices Mentored,The player has successfully mentored five apprentices to achieve their own ultimate goals.
+275,Abstract & Game Specific,Global Magic Origin Control,The player controls the origin point of all global magic power.
+276,Technological & Scientific,Universal Language Created,The player has created a universal language understood by all sentient beings.
+277,Abstract & Game Specific,24 Hour Campaign Completion,"The player has completed the epic campaign in a single, continuous, 24-hour session."
+278,Moral & Ethical,Enemy Civilian Well-being,The player's final action secured the well-being of the enemy's civilian population.
+279,Political & Governance,Kingmaker Scenario,The player's influence rating resulted in a Kingmaker scenario where they chose the winner.
+280,Character & Narrative,Ghost Blessing Secured,The player successfully convinced the ghost of the former king to grant a blessing.
+281,Abstract & Game Specific,All Achievements Completed,The player successfully completed all achievements listed on the main menu.
+282,Abstract & Game Specific,Final Paradox Identified,The player is the only one who correctly identified the final paradox of the game.
+283,Political & Governance,Opposed Factions Alliance,The player successfully brought two diametrically opposed factions to a true alliance.
+284,Character & Narrative,All Mythical Creatures Doc,The player has successfully documented the existence of all 50 mythical creatures.
+285,Character & Narrative,World's Greatest Narrative,The player's personal story is universally considered the world's greatest narrative.
+286,Economic & Trade,Resource Pool Exhausted,The player won the game by exhausting the entire pool of available resources.
+287,Environmental & Survival,Sentient Weather Tamed,"The player successfully captured and tamed the wild, sentient weather pattern."
+288,Political & Governance,Two Largest Empires Throne,The player's family lineage now sits on the throne of the two largest empires.
+289,Technological & Scientific,Pure Anti-Matter Discovery,The player has discovered the secret to creating pure anti-matter safely.
+290,Abstract & Game Specific,No One Technically Lost,The player successfully orchestrated a scenario where no one technically lost the game.
+291,Character & Narrative,Ultimate Photograph Taken,"The player's single photograph captures the ultimate, unrepeatable moment of beauty."
+292,Character & Narrative,Reality Stabilizing Dance,The player successfully performed the ancient dance that stabilizes reality.
+293,Mystery & Thriller,Negotiated Prison Release,The player successfully negotiated their own release from the unbeatable prison.
+294,Abstract & Game Specific,Highest Rank In Three Careers,The player's character earned the highest possible rank in three different careers.
+295,Political & Governance,Philosophy Adopted Globally,The player's philosophy is adopted by the world as the only guiding principle.
+296,Technological & Scientific,Fundamental Laws Altered,The player achieved victory by permanently altering the fundamental laws of physics.
+297,Space Opera & Cyberpunk,Inter-Dimensional Vessel,The player successfully constructed a vessel capable of crossing dimensions.
+298,Military & Conquest,Enemy Morale Destroyed,"The player successfully destroyed the enemy's morale, leading to a mass desertion."
+299,Character & Narrative,Universal Work of Literature,The player's single work of literature is read by every literate person on Earth.
+300,Political & Governance,People Led To New World,"The player has successfully led their people on an exodus to a new, pristine world."
+301,Political & Governance,Divine Right Granted,The player is granted the ultimate authority through the principle of Divine Right.
+302,Political & Governance,Might Makes Right Rule,The player successfully enforced their rule based purely on the principle that Might Makes Right.
+303,Political & Governance,Social Contract Secured,The player convinced the populace that their leadership is a necessary Social Contract for security.
+304,Political & Governance,Philosopher King Established,The player successfully established a Philosopher King government based on Platonic ideals.
+305,Political & Governance,Universal Supreme Law,"The player's single, supreme law is universally accepted as the one true principle of justice."
+306,Political & Governance,Total Dictatorial Control,"The player, as a dictator, achieves total control over the public and private lives of all citizens."
+307,Political & Governance,Perfect Anarchy Established,The player successfully established a perfectly functional Anarchy based on individual autonomy.
+308,Political & Governance,Monopoly on Violence,The player's government has a monopoly on violence that no opposing force can challenge.
+309,Political & Governance,Limited Government Security,The player successfully used a limited government to secure the life and property of every citizen.
+310,Political & Governance,Political Will Is Only Law,The player's political will is the only source of law in the entire game world.
+311,Space Opera & Cyberpunk,100% Information Control,The player successfully controlled the flow of information to 100% of the world's population.
+312,Space Opera & Cyberpunk,Narrative Is Only Truth,The player's influence over the media makes their stated narrative the only accepted truth.
+313,Space Opera & Cyberpunk,Last Free Thinker Submits,The last remaining person capable of independent thought willingly submitted to the player's rule.
+314,Space Opera & Cyberpunk,Global Satellite Array Control,The player successfully seized and controls the global satellite communication array.
+315,Economic & Trade,Invulnerable Global Routes,The player's trade routes span the entire globe and are completely invulnerable to interception.
+316,Economic & Trade,World Bank Branch In Every Capital,The player has successfully established a branch of the World Bank in every major capital.
+317,Economic & Trade,Self-Benefiting Free Trade,"The player established Economic Free Trade on the seas, benefiting only their own nation."
+318,Economic & Trade,Rival Continent Bankrupted,The player successfully executed a financial strategy that bankrupted the entire rival continent.
+319,Economic & Trade,100 Years Treasure Fleets,The player has accumulated enough Treasure Fleets to fund 100 years of operation.
+320,Economic & Trade,Five Category Net Positive,The player's cities generate a net positive resource flow in all five major categories.
+321,Economic & Trade,Staple Crop Cornered,The player successfully cornered the global market on the Staple Crop resource.
+322,Economic & Trade,Sole Luxury Good Provider,The player is the sole provider of the luxury good desired by all noble classes.
+323,Economic & Trade,Net Worth Triples Rivals,The player achieved victory by having a net worth greater than the next three rivals combined.
+324,Economic & Trade,Corporation as Sovereign,The player's private corporation is formally recognized as a sovereign entity.
+325,Economic & Trade,Rival Currency Collapsed,The player successfully manipulated the global market to cause a major rival's currency to collapse.
+326,Economic & Trade,Perpetual Zero Tax,The player has accumulated enough wealth to permanently eliminate the tax burden on all citizens.
+327,Economic & Trade,Ownership of All Capital Buildings,The player holds the Deed of Ownership for every building in the capital city.
+328,Economic & Trade,Guaranteed Energy Independence,The player's trade agreement ensures their continued Energy Independence forever.
+329,Character & Narrative,Final Selfless Act Balances Sins,"The morally gray character's final, selfless act balanced out all their previous sins."
+330,Character & Narrative,Public Amends Made,The character successfully made public amends to every person they had wronged.
+331,Character & Narrative,Happiness Surrendered,The protagonist surrendered their only chance at personal happiness to ensure the world's survival.
+332,Character & Narrative,Death Catalyzes Enemy Change,The hero's voluntary death served as the catalyst for the ultimate change in the enemy.
+333,Character & Narrative,Villain Saves Rival,The corrupted former villain sacrifices themselves to save their greatest rival.
+334,Character & Narrative,Atonement For Hubris,The protagonist's atonement for their hubris resulted in a lasting legacy of humility.
+335,Character & Narrative,Betrayal Transformation Accepted,The character's transformation was accepted by the community they originally betrayed.
+336,Character & Narrative,Antagonist Chooses Redemption,The player successfully persuaded the main antagonist to choose the path of redemption.
+337,Character & Narrative,Psychological Wound Healed,The player has permanently healed the deep internal psychological wound that defined them.
+338,Character & Narrative,Ultimate Act of Love,The protagonist's ultimate act of love proved to be the world's salvation.
+339,Character & Narrative,Rescued Betrayer,The player succeeded in rescuing the one person who previously betrayed them.
+340,Character & Narrative,Conscious Struggle Chosen,"The player consciously chose the path of personal struggle over the easy, corrupting victory."
+341,Construction & Management,Six Unique Landmarks,The player has successfully constructed all six unique landmarks required for victory.
+342,Construction & Management,10 Year Threat Survival,The player's settlement has survived 10 years of simulated existential threats.
+343,Construction & Management,5 Years Max Livability,The city's livability rating has been maxed out at 100% for five consecutive years.
+344,Construction & Management,200 Unique Buildings,The player's total number of unique constructed buildings is 200.
+345,Construction & Management,Full Resource Chain Consumed,The player has successfully produced and consumed every resource on the resource chain map.
+346,Construction & Management,Most Popular Theme Park,The player's theme park is universally rated as the most popular attraction in the world.
+347,Construction & Management,Three-Tier Structure Topped,The player built the required three-tier structure and placed their token at the top.
+348,Construction & Management,Highest Cultural Level,The player's civilization is the first to achieve the highest cultural level in all cities.
+349,Construction & Management,All Pollution Eradicated,The player successfully eradicated all forms of pollution from the map forever.
+350,Construction & Management,Closed-Loop Orbital Station,"The player has successfully created a fully self-sustaining, closed-loop orbital station."
+351,Construction & Management,Tech Tree Under 100 Turns,The player completed the entire technology tree before the 100th game turn.
+352,Construction & Management,Final Wealth Worsening,The player has reached the final wealth threshold in a scenario with worsening conditions.
+353,Competitive & Athletic,New World Record Set,The player achieved victory by setting a new world record in the most difficult event.
+354,Competitive & Athletic,Final Piece Played,The player won the final match by successfully playing the last piece.
+355,Competitive & Athletic,Overtime Championship,The player's team won the final championship game in overtime.
+356,Competitive & Athletic,Microsecond Win,The player won the race by crossing the finish line exactly one microsecond ahead of the rival.
+357,Competitive & Athletic,Perfect Sportsmanship,The player was the only competitor to play the entire tournament with perfect sportsmanship.
+358,Competitive & Athletic,Moral Victory (Loss),The player achieved a Moral Victory by losing the contest but upholding the highest virtues.
+359,Competitive & Athletic,Score Is Double Runner-Up,The player's total score is more than double the score of the runner-up.
+360,Competitive & Athletic,Three Pieces In A Row,The player successfully achieved the required number of pieces in a row three times.
+361,Competitive & Athletic,Forced Opponent Violation,The player won the final round by forcing the opponent to violate a major rule.
+362,Competitive & Athletic,100-to-1 Underdog Win,"The player, as the underdog, overcame a 100-to-1 odds deficit to win the final."
+363,Competitive & Athletic,Inspiring Performance,The player's final performance was so inspiring that all spectators joined their cause.
+364,Competitive & Athletic,Finished Thousand Mile Marathon,The player is the only one who finished the marathon of a thousand miles.
+365,Competitive & Athletic,Highest Ethical Code Win,The player won the competition while adhering strictly to the highest ethical code.
+366,Abstract & Game Specific,Sphinx Question Answered,The player successfully answered the final question posed by the sphinx.
+367,Abstract & Game Specific,50 Rare Mushrooms,The player collected 50 unique types of rare mushrooms and delivered them to the alchemist.
+368,Abstract & Game Specific,All Seven Crafting Mastered,The player successfully mastered all seven major crafting skills.
+369,Character & Narrative,Library Of Every Book,The player's personal library contains a copy of every book ever written.
+370,Moral & Ethical,Never Killed An Opponent,The player successfully completed the game without ever killing an opponent.
+371,Abstract & Game Specific,Convinced Opposing Team To Quit,The player managed to fully convince the entire opposing team to quit playing.
+372,Mystery & Thriller,Perfect Secrecy Rating,The player successfully maintained a perfect secrecy rating throughout the game.
+373,Character & Narrative,Retrieved Object Not Lost,The player has successfully retrieved the object they did not know they had lost.
+374,Abstract & Game Specific,Maze of Paradoxes Solved,The player successfully navigated the maze of paradoxes and reached the final door.
+375,Character & Narrative,Optimal Internal Arc,The player successfully achieved the optimal result for every character's internal arc.
+376,Character & Narrative,Ghost Possesses Hero,The player's ghost successfully possesses and guides the new chosen hero.
+377,Character & Narrative,Legend Replaced History,The player's legend has completely replaced all historical record.
+378,Political & Governance,Ancient Council Disbanded,The player successfully convinced the ancient council to disband forever.
+379,Abstract & Game Specific,Found Way To Return Unaltered,The player is the only one who found the way to return to the beginning unaltered.
+380,Political & Governance,Million Year Peace,"The player successfully brokered a peace that lasted 1,000,000 simulated years."
+381,Technological & Scientific,Inherently Good Life Form,The player successfully created a new form of life that is inherently good.
+382,Character & Narrative,Solved Universal Suffering,The player successfully solved the philosophical problem of universal suffering.
+383,Abstract & Game Specific,50 Cosmic Key Pieces,The player collected all 50 pieces of the shattered cosmic key.
+384,Political & Governance,Benevolent Dictator Ideal,The player successfully convinced the world that a benevolent dictator is the ideal ruler.
+385,Abstract & Game Specific,Win with Most Useless Item,The player won the game by possessing the most useless item at the final tally.
+386,Environmental & Survival,Manipulated Environment,The player successfully completed the final objective by manipulating the environment.
+387,Military & Conquest,Spies Infiltrated Every City,The player's network of spies successfully infiltrated every enemy city.
+388,Technological & Scientific,Infinite Fuel Source,"The player successfully engineered the discovery of a non-polluting, infinite fuel source."
+389,Moral & Ethical,Enlightenment Shared,The player successfully achieved enlightenment and shared it with all humanity.
+390,Character & Narrative,Instant Crop Dance,The player successfully performed the dance that makes the crops grow instantly.
+391,Character & Narrative,Curse of Undeath Removed,The player successfully removed the curse of undeath from the final boss.
+392,Character & Narrative,Universal Music Masterpiece,The player created a new work of music that is universally regarded as a masterpiece.
+393,Character & Narrative,All Minor Prophecies Met,The player successfully fulfilled every minor prophecy foretold at the game's start.
+394,Abstract & Game Specific,Legacy Points for New Civ,The player has accumulated enough Legacy Points to start a new civilization.
+395,Military & Conquest,Self-Defeating Weapon Destroyed,The player successfully destroyed the single ancient weapon capable of defeating them.
+396,Character & Narrative,Brought All Characters to Potential,The player successfully brought every single character to their full potential.
+397,Character & Narrative,Warring Deities Retire,The player successfully convinced the three warring deities to retire from meddling.
+398,Abstract & Game Specific,Supersonic Mount Bred,The player has successfully bred a mount that is faster than the speed of sound.
+399,Abstract & Game Specific,Harmless Massive Explosion,The player won the game by intentionally causing a massive explosion that harmed no one.
+400,Political & Governance,Just and Eternal New King,The player successfully ensured that the new king would rule justly and forever.
+401,Mystery & Thriller,Unlikeliest Villain Revealed,"The player successfully revealed the high-ranking official as the final, unlikeliest villain."
+402,Mystery & Thriller,Core Conspiracy Data Leak,"The core political conspiracy was exposed to the public through an undeniable, verified data leak."
+403,Mystery & Thriller,Innocence Proven and Frame Job,The protagonist proved their innocence and uncovered the frame job that led to their false conviction.
+404,Mystery & Thriller,World Altering Tech Destroyed,The secret of the world-altering technology was successfully destroyed before the villain could use it.
+405,Mystery & Thriller,MacGuffin Recovered,The player recovered the single MacGuffin that holds the key to every major historical event.
+406,Mystery & Thriller,Assassin Completed Contract,The assassin successfully completed the contract by eliminating the designated primary target.
+407,Mystery & Thriller,Corrupt Leader Confesses,"The player, using philosophical insight, convinced the corrupt leader to confess their crimes publicly."
+408,Mystery & Thriller,Trauma Solves Crisis,The protagonist's personal trauma was the key to solving the global geopolitical crisis.
+409,Mystery & Thriller,Moral Gray Pragmatic Outcome,The player successfully navigated the moral gray area and chose the most pragmatic outcome.
+410,Mystery & Thriller,Plausible Better Reality Created,The player created an alternative reality that is plausible and better than the current one.
+411,Mystery & Thriller,Intelligence Superiority,The player proved that their intelligence was superior to the entire global spy network.
+412,Mystery & Thriller,Nuclear Plot Thwarted Seconds,The player successfully thwarted a nuclear plot with only seconds left on the countdown.
+413,Mystery & Thriller,Counter-Strategy Downfall,The protagonist's long-term counter-strategy resulted in the downfall of the entrenched evil.
+414,Environmental & Survival,Designated Planet Terraformed,"The player successfully terraformed the designated barren planet into a lush, breathable world."
+415,Environmental & Survival,100 Days Hostile Survival,The player's survival skills allowed them to endure 100 consecutive days in the most hostile biome.
+416,Environmental & Survival,Full Community Resource Thriving,The player successfully gathered the food and water resources necessary for their entire community to thrive.
+417,Environmental & Survival,Lost Loved One Returned,The player achieved victory by finding their lost loved one and safely returning them to civilization.
+418,Environmental & Survival,Impenetrable Base Built,"The player successfully built a permanent, defended base that is impenetrable to all threats."
+419,Environmental & Survival,Environmental Blight Cured,The player cured the environmental blight that was killing all the world's plant life.
+420,Environmental & Survival,Giant Boss Creature Captured,The player successfully captured and studied the Giant Boss Creature without killing it.
+421,Environmental & Survival,Perpetual Optimal Health,The player has accumulated enough resources to perpetually maintain optimal health stats.
+422,Environmental & Survival,Flooded Planet Escaped,"The player successfully escaped the flooded planet on their self-built, advanced airship."
+423,Environmental & Survival,Human Life Sustained Indefinitely,The player proved that human life can be sustained indefinitely without external aid.
+424,Environmental & Survival,Symbiosis with Hostile Planet,The player achieved symbiosis with the hostile planet's native fauna and flora.
+425,Environmental & Survival,Natural Disaster Stopped,The player succeeded in stopping the natural disaster from occurring at the last moment.
+426,Environmental & Survival,Only Survivor of Zombie Wave,The player won by being the only one to survive the entire Zombie Wave Apocalypse.
+427,Environmental & Survival,Shrinking World Reversed,The player discovered the reason for the world's shrinking size and reversed the effect.
+428,Ancient & Ideal State,Platonic Ideal State,The player established a Platonic Ideal State where justice is perfectly realized by specialization.
+429,Ancient & Ideal State,Philosopher King Max Happiness,"The player, as the Philosopher King, achieved the maximum possible happiness for all citizens."
+430,Ancient & Ideal State,Perfect Internal Peace,The player's state is one of perfect internal peace and harmony among all social classes.
+431,Ancient & Ideal State,Aristotelian Eudaimonia,The player achieved the Aristotelian concept of Eudaimonia for all individuals in the city-state.
+432,Ancient & Ideal State,Love Ushers Global Peace,The player's single act of love and friendship ushered in an era of global peace.
+433,Ancient & Ideal State,Virtuous City Established,"The player successfully established the Virtuous City, aiming for the universal happiness of the community."
+434,Ancient & Ideal State,Highest Moral Duty Achieved,The player's state has achieved the highest moral duty to establish peace and friendship.
+435,Ancient & Ideal State,Non-Violence Concession,"The player, through non-violence, forced the opposing power to concede their disputed claim."
+436,Ancient & Ideal State,Only Beacon of Truth,The player's city-state is recognized as the only beacon of truth and knowledge in the world.
+437,Ancient & Ideal State,Virtue Ethics Taught,The player successfully taught all citizens the meaning of virtue ethics.
+438,Ancient & Ideal State,Ruled by Reason Society,The player's leadership created a society where everyone acts according to reason and not appetite.
+439,Ancient & Ideal State,Highest Perfection Achieved,The player successfully achieved the highest perfection designed by nature for humanity.
+440,Social Deduction & Pysch,Hidden Traitor Undetected,"The player, as the hidden traitor, successfully remained undetected until the final turn."
+441,Social Deduction & Pysch,Alibi Deflected Suspicion,The player's convincing alibi deflected suspicion and resulted in the innocent's elimination.
+442,Social Deduction & Pysch,Conflicting Role Convinced,The player successfully convinced the group that their own conflicting role was beneficial to the team.
+443,Social Deduction & Pysch,First To Be Eliminated,The player won by successfully being the first player to be eliminated from the game (The Tanner).
+444,Social Deduction & Pysch,Double Bluff Identified,The player was the only one who correctly identified the double bluff scenario.
+445,Social Deduction & Pysch,Unassailable Cover Story,The player created a cover story so intricate that its truth value is unassailable.
+446,Social Deduction & Pysch,Manipulated Tradition Meta,The player successfully manipulated the group's tradition-based meta to their own advantage.
+447,Social Deduction & Pysch,Cleared Innocent Teammate,"The player, as the good character, successfully cleared the name of an innocent teammate."
+448,Social Deduction & Pysch,Two Rival Factions Eliminated,The player successfully convinced two rival factions to eliminate each other.
+449,Social Deduction & Pysch,Zero Suspicion Points,The player's character ended the game with zero suspicion points.
+450,Social Deduction & Pysch,Last-Minute Vote Change,"The player won the final vote by exactly one, decisive, last-minute vote change."
+451,Social Deduction & Pysch,Fanatical Commitment Maintained,The player successfully maintained their fanatical commitment to their initial goal.
+452,Social Deduction & Pysch,Victory By Abstention,The player successfully led the group to victory by abstaining from all critical decisions.
+453,Abstract & Game Specific,Rarest Artifact Possession,"The player won the game by possessing the single, rarest artifact of power."
+454,Abstract & Game Specific,Universally Impossible Task,The player successfully completed the task that was universally considered impossible.
+455,Abstract & Game Specific,Won Right To Retire,The player successfully won the right to retire a hero praised by their people.
+456,Military & Conquest,Overwhelming Siege Defense,"The player successfully constructed a defense that survived the final, overwhelming siege."
+457,Abstract & Game Specific,Zero Character Interaction,The player successfully completed the game without ever interacting with another character.
+458,Abstract & Game Specific,Ziggurat Treasure Filled,The player amassed enough treasure to fill a ziggurat to the very top.
+459,Character & Narrative,Kindness Breaks Conflict Cycle,The player successfully broke the cycle of eternal conflict through a single act of kindness.
+460,Abstract & Game Specific,100 Million EXP,"The player's total cumulative experience points exceeded 100,000,000."
+461,Political & Governance,Alien Ceasefire Negotiated,The player successfully negotiated a permanent ceasefire with the hostile alien race.
+462,Moral & Ethical,Proved Value of Single Life,The player successfully proved the ultimate value of a single human life.
+463,Construction & Management,Every Moon Colonized,The player successfully colonized every moon in the solar system.
+464,Construction & Management,Single Scarce Resource Build,"The player successfully built a new structure entirely out of a single, scarce resource."
+465,Military & Conquest,Fighting Style Adopted Globally,The player's unique fighting style was adopted by all military forces worldwide.
+466,Mystery & Thriller,True Lineage Uncovered,The player successfully uncovered the true lineage of the mysterious protagonist.
+467,Political & Governance,All Future Scandals Prevented,The player successfully prevented all future political scandals forever.
+468,Abstract & Game Specific,Final Legal Move Win,The player won the game on the final legal move possible.
+469,Technological & Scientific,New Physics Theory Replaced,The player's new theory of physics replaced all existing knowledge.
+470,Abstract & Game Specific,Zero Damage Navigation,The player successfully navigated the entire map without taking a single point of damage.
+471,Political & Governance,Rule of Law is Supreme,The player successfully convinced the world that the rule of law is supreme.
+472,Abstract & Game Specific,Highest Score In All Categories,"The player achieved victory by having the highest score in the cultural, economic, and military categories."
+473,Character & Narrative,Trained Five Kingdom Rulers,"The player successfully trained a cohort of five heroes, each capable of ruling a kingdom."
+474,Environmental & Survival,Brought Rain to Drought,The player successfully brought rain to the drought-stricken lands.
+475,Technological & Scientific,All Pre-Collapse Secrets,The player recovered all the lost technological secrets of the pre-Collapse era.
+476,Abstract & Game Specific,Win Unwinnable Game,The player successfully won a game that was explicitly designed to be unwinnable.
+477,Character & Narrative,Negotiated Resurrection,The player successfully negotiated their own resurrection from the dead.
+478,Character & Narrative,All Dark Magic Destroyed,The player has destroyed all sources of dark magic in the world.
+479,Abstract & Game Specific,Contradictory Contract Fulfilled,The player successfully fulfilled every contradictory clause in the ancient contract.
+480,Abstract & Game Specific,Total Victory On Turn One,The player achieved total victory on the very first turn of the game.
+481,Technological & Scientific,Doubled Known Universe Size,The player's single discovery doubled the entire known size of the universe.
+482,Character & Narrative,God of War Lays Down Arms,The player successfully convinced the god of war to lay down their arms forever.
+483,Abstract & Game Specific,Perfect Nash Equilibrium,The player's final decision resulted in a perfect Nash equilibrium for all players.
+484,Environmental & Survival,Rescued All 7 From Fire,The player successfully rescued all 7 people/animals from the burning structure.
+485,Construction & Management,All 6 Designated Landmarks,The player is the first to obtain all 6 designated landmarks for their city.
+486,Abstract & Game Specific,Survived 20 Ticking Clock,The player achieved victory by surviving 20 rounds of the Ticking Clock loss condition.
+487,Construction & Management,Currency-Free Civilization,The player succeeded in building a new civilization without any form of currency.
+488,Character & Narrative,Defied Magical Laws,The player successfully performed the trick that defies all established magical laws.
+489,Military & Conquest,Convinced War Not Worth Cost,The player successfully convinced the hostile force that the war was not worth the cost.
+490,Environmental & Survival,Permanent Peace Among Life,The player has successfully created a permanent peace among animals and humans.
+491,Technological & Scientific,Perpetual Motion Engineered,The player successfully engineered a perpetual motion machine.
+492,Character & Narrative,10000 Generation Legacy,"The player's legacy is guaranteed to be remembered for 10,000 generations."
+493,Character & Narrative,12 Magical Herbs Collected,The player successfully collected and utilized all 12 types of magical herbs.
+494,Abstract & Game Specific,Weakest Starting Character Win,The player achieved victory by using the weakest available starting character.
+495,Political & Governance,Ancient King Restored,The player successfully restored the ancient king to his rightful throne.
+496,Military & Conquest,Avoided Enemy Scout Detection,The player managed to avoid detection by the enemy scout unit for the entire game.
+497,Environmental & Survival,Truly Sustainable Society,The player successfully established a truly sustainable society in all respects.
+498,Abstract & Game Specific,Most Beautiful Elegant Play,The player's final move was judged to be the most beautiful and elegant play possible.
+499,Abstract & Game Specific,Prevented Domino Effect,The player successfully prevented the domino effect of cascading failures.
+500,Military & Conquest,Only Civ Left on Home Planet,The player's civilization is the only one left standing on the home planet.
+501,Metaphysical & 4th Wall,Refusal of Origins (Fifth Origin),The player's current success proves the Refusal of Origins (the fifth origin) is the ultimate defining identity.
+502,Metaphysical & 4th Wall,Rewrote Source Code,The player successfully rewrote the Source Code of the game world to reflect a truly just society.
+503,Metaphysical & 4th Wall,Game Can Never Be Played Again,The player won by choosing the only option that guaranteed the game could never be played again.
+504,Metaphysical & 4th Wall,Communicated To Controller,The player successfully communicated the exact coordinates of their own location to the player controlling the game.
+505,Metaphysical & 4th Wall,Story Designated As Warning,The player achieved victory by having their entire story designated as a Warning rather than a triumph.
+506,Metaphysical & 4th Wall,Accepted Simulation Inhabitant,The protagonist's ultimate realization was that they are an inhabitant of a simulation and they accepted this fact.
+507,Metaphysical & 4th Wall,Performed Unintended Action,The player achieved victory by performing the one action the game's developer stated was unintended.
+508,Temporal & Paradoxical,Past Act Eliminates Antagonist,The player's single act in the past eliminated the main antagonist before they could commit their first crime.
+509,Temporal & Paradoxical,Second Lifetime Unaltered,The player successfully lived an entire second lifetime without altering a single event in the new timeline.
+510,Temporal & Paradoxical,Convinced Founder to Peace,The player won the great war by successfully convincing the enemy's historical founder to pursue peace.
+511,Temporal & Paradoxical,Past/False/Future True,"The final truth statement is one that is true in the past, false in the present, and true in the future."
+512,Temporal & Paradoxical,Delivered Item Disappears,The player achieved victory by returning from the future to deliver an item that subsequently disappears forever.
+513,Cultural & Ethical,Achieved Wabi-Sabi,"The player achieved Wabi-Sabi by finding and appreciating the profound, imperfect beauty in the flawed game world."
+514,Cultural & Ethical,Achieved Ubuntu,The player successfully achieved Ubuntu by defining their self-worth entirely through the service of others.
+515,Cultural & Ethical,Achieved Wu Wei,"The player achieved the ultimate goal by completing the task with the least effort, demonstrating the value of Wu Wei (effortless action)."
+516,Cultural & Ethical,Perfect Dharmic Balance,The player's state is one of perfect Dharmic balance where societal order and justice are permanently maintained.
+517,Cultural & Ethical,Walked Eightfold Path,The player demonstrated the correct path by successfully walking the Eightfold Path to achieve total enlightenment.
+518,Cultural & Ethical,Victory of Collective Survival,The player's triumph is a victory of collective survival over individual glory.
+519,Cultural & Ethical,Safe Refuge for All Opponents,The player achieved victory by ensuring that every member of the opposing faction was able to find safe refuge.
+520,Cultural & Ethical,Won Right to Contemplation,The player successfully won the right to retire and pursue a life of pure contemplation and intellectual freedom.
+521,Cultural & Ethical,Unbreakable Ahimsa,The player's success came from an unbreakable commitment to Ahimsa (non-violence) in all circumstances.
+522,Process & Negative,First To Run Out Of Assets,The player won by being the first to run out of all forms of currency and accumulated assets.
+523,Process & Negative,Zero Growth Stability,"The player successfully managed their resources to achieve zero growth over 100 turns, preserving stability."
+524,Process & Negative,Opponent Drops Win Condition,The player's logic chain convinced the primary opponent to voluntarily drop their win condition.
+525,Process & Negative,Traveled Only Starting Space,The player completed the entire game having only traveled within the boundaries of their initial starting space.
